@@ -1,2 +1,2 @@
 # icici-banking
-This is sample jar file.
+This is just a sample jar file.
